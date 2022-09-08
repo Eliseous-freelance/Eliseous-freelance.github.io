@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
+<head>
+  <title>Terrarium Data Logger
+<head>
 <body>
 
-<h1>Eliseous-freelance.github.io</h1>
-
-<p>Click the button below to display the hidden content from the template element.</p>
+<p>This website is used as a data logger for the Terrarium project found: https://github.com/Eliseous-freelance/Terrarium.git</p>
 </body>
 </html>
